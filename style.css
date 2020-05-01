@@ -1,0 +1,9 @@
+.chat-window { font: 13px Helvetica, Arial; }
+.chat-window #messages { list-style-type: none; margin: 0; padding: 0; }
+.chat-window #messages li { padding: 5px 10px; }
+.chat-window #messages li:nth-child(odd) { background: #eee; }
+
+
+.center {
+    text-align: center;
+}
